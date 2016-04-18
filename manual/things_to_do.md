@@ -2,8 +2,11 @@ Idées de choses à faire
 ========================
 
 - [ ] GROS - Documentation à planifier plus
+- [ ] Doc - Un seul endroit avec les démos (page qui redirige vers les exemples)
+- [ ] Petit - Exemple de state machine dans les démos
 - [ ] Petit - Plus d'exemples dans le projet de démarrage / IntelliJ ?
 - [ ] GROS - Pouvoir décrire le tb en Scala via cocotb
+- [ ] GROS - DSL pour faire des interconnect de bus
 - [ ] Générer le code dans un répertoire (pas très pratique même dossier)
 - [ ] Moyen - Plusieurs niveau de verbosité dans le progress, avec un disclaimer
 - [ ] Moyen - Packer le langage dans un JAR exécutable ? Pourrait être utile pour faire du batch build
